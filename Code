@@ -1,8 +1,1 @@
-/sendPhoto?chat_id=@CHANNELNAME
-&photo=https://URL.COM/PIC.PNG
-&caption=CUSTOMTEXT
-&parse_mode=markdown
-
-/sendMessage?chat_id=@CHANNELNAME
-&text=CUSTOMTEXT
-&parse_mode=markdown
+sendPhoto?chat_id=@CHANNELNAME&photo=https://URL.COM/PIC.PNG&caption=CUSTOMTEXT&parse_mode=markdown
